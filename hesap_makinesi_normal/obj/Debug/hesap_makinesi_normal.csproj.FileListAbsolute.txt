@@ -1,0 +1,16 @@
+C:\Users\agyuksek\Documents\Visual Studio 2008\Projects\1YonetimBisimSistemleri\hesap_makinesi_normal\hesap_makinesi_normal\bin\Debug\hesap_makinesi_normal.exe
+C:\Users\agyuksek\Documents\Visual Studio 2008\Projects\1YonetimBisimSistemleri\hesap_makinesi_normal\hesap_makinesi_normal\bin\Debug\hesap_makinesi_normal.pdb
+C:\Users\agyuksek\Documents\Visual Studio 2008\Projects\1YonetimBisimSistemleri\hesap_makinesi_normal\hesap_makinesi_normal\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\agyuksek\Documents\Visual Studio 2008\Projects\1YonetimBisimSistemleri\hesap_makinesi_normal\hesap_makinesi_normal\obj\Debug\hesap_makinesi_normal.Form1.resources
+C:\Users\agyuksek\Documents\Visual Studio 2008\Projects\1YonetimBisimSistemleri\hesap_makinesi_normal\hesap_makinesi_normal\obj\Debug\hesap_makinesi_normal.Properties.Resources.resources
+C:\Users\agyuksek\Documents\Visual Studio 2008\Projects\1YonetimBisimSistemleri\hesap_makinesi_normal\hesap_makinesi_normal\obj\Debug\hesap_makinesi_normal.csproj.GenerateResource.Cache
+C:\Users\agyuksek\Documents\Visual Studio 2008\Projects\1YonetimBisimSistemleri\hesap_makinesi_normal\hesap_makinesi_normal\obj\Debug\hesap_makinesi_normal.exe
+C:\Users\agyuksek\Documents\Visual Studio 2008\Projects\1YonetimBisimSistemleri\hesap_makinesi_normal\hesap_makinesi_normal\obj\Debug\hesap_makinesi_normal.pdb
+C:\Users\anıl\Desktop\Dersler\İleri Görsel Programlama\2-5.hafta\hesap_makinesi_normal\hesap_makinesi_normal\obj\Debug\hesap_makinesi_normal.exe
+C:\Users\anıl\Desktop\Dersler\İleri Görsel Programlama\2-5.hafta\hesap_makinesi_normal\hesap_makinesi_normal\obj\Debug\hesap_makinesi_normal.pdb
+C:\Users\anıl\Desktop\Dersler\İleri Görsel Programlama\2-5.hafta\hesap_makinesi_normal\hesap_makinesi_normal\bin\Debug\hesap_makinesi_normal.exe
+C:\Users\anıl\Desktop\Dersler\İleri Görsel Programlama\2-5.hafta\hesap_makinesi_normal\hesap_makinesi_normal\bin\Debug\hesap_makinesi_normal.pdb
+C:\Users\anıl\Desktop\Dersler\İleri Görsel Programlama\2-5.hafta\hesap_makinesi_normal\hesap_makinesi_normal\obj\Debug\hesap_makinesi_normal.csprojResolveAssemblyReference.cache
+C:\Users\anıl\Desktop\Dersler\İleri Görsel Programlama\2-5.hafta\hesap_makinesi_normal\hesap_makinesi_normal\obj\Debug\hesap_makinesi_normal.Form1.resources
+C:\Users\anıl\Desktop\Dersler\İleri Görsel Programlama\2-5.hafta\hesap_makinesi_normal\hesap_makinesi_normal\obj\Debug\hesap_makinesi_normal.Properties.Resources.resources
+C:\Users\anıl\Desktop\Dersler\İleri Görsel Programlama\2-5.hafta\hesap_makinesi_normal\hesap_makinesi_normal\obj\Debug\hesap_makinesi_normal.csproj.GenerateResource.Cache

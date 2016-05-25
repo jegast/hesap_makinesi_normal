@@ -1,0 +1,16 @@
+E:\C#1dönem\4.Hafta\hesap_makinesi_normal\hesap_makinesi_normal\obj\Debug\hesap_makinesi_normal.pdb
+E:\C#1dönem\4.Hafta\hesap_makinesi_normal\hesap_makinesi_normal\bin\Debug\hesap_makinesi_normal.exe
+E:\C#1dönem\4.Hafta\hesap_makinesi_normal\hesap_makinesi_normal\bin\Debug\hesap_makinesi_normal.pdb
+E:\C#1dönem\4.Hafta\hesap_makinesi_normal\hesap_makinesi_normal\obj\Debug\ResolveAssemblyReference.cache
+E:\C#1dönem\4.Hafta\hesap_makinesi_normal\hesap_makinesi_normal\obj\Debug\hesap_makinesi_normal.Form1.resources
+E:\C#1dönem\4.Hafta\hesap_makinesi_normal\hesap_makinesi_normal\obj\Debug\hesap_makinesi_normal.Properties.Resources.resources
+E:\C#1dönem\4.Hafta\hesap_makinesi_normal\hesap_makinesi_normal\obj\Debug\hesap_makinesi_normal.csproj.GenerateResource.Cache
+E:\C#1dönem\4.Hafta\hesap_makinesi_normal\hesap_makinesi_normal\obj\Debug\hesap_makinesi_normal.exe
+E:\C#1dönem\ue\6.hafta\hesap_makinesi_normal\hesap_makinesi_normal\obj\Debug\hesap_makinesi_normal.exe
+E:\C#1dönem\ue\6.hafta\hesap_makinesi_normal\hesap_makinesi_normal\obj\Debug\hesap_makinesi_normal.pdb
+E:\C#1dönem\ue\6.hafta\hesap_makinesi_normal\hesap_makinesi_normal\bin\Debug\hesap_makinesi_normal.exe
+E:\C#1dönem\ue\6.hafta\hesap_makinesi_normal\hesap_makinesi_normal\bin\Debug\hesap_makinesi_normal.pdb
+E:\C#1dönem\ue\6.hafta\hesap_makinesi_normal\hesap_makinesi_normal\obj\Debug\ResolveAssemblyReference.cache
+E:\C#1dönem\ue\6.hafta\hesap_makinesi_normal\hesap_makinesi_normal\obj\Debug\hesap_makinesi_normal.Form1.resources
+E:\C#1dönem\ue\6.hafta\hesap_makinesi_normal\hesap_makinesi_normal\obj\Debug\hesap_makinesi_normal.Properties.Resources.resources
+E:\C#1dönem\ue\6.hafta\hesap_makinesi_normal\hesap_makinesi_normal\obj\Debug\hesap_makinesi_normal.csproj.GenerateResource.Cache
